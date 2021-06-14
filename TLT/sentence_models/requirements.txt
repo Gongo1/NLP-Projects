@@ -1,0 +1,7 @@
+tensorflow
+tensorflow_hub
+pandas
+numpy
+seaborn
+xgboost
+
